@@ -1,0 +1,21 @@
+﻿Country,Region,SalesPerson,Date of Purchase,Total,Quantity
+Brazil,East,Joao Silva,03/15/2023,145000,45
+Japan,West,Hiroshi Tanaka,07/22/2024,320000,12
+Canada,North,Ethan Tremblay,11-09-2023,210000,78
+India,South,Arjun Patel,02/28/2025,175000,33
+Brazil,West,Mariana Costa,06/14/2024,280000,19
+Germany,East,Lukas Müller,09-03-2023,430000,56
+Australia,South,Jack Cooper,12/17/2024,115000,82
+France,North,Élise Dubois,04-05-2025,260000,27
+Japan,East,Aiko Yamada,08/19/2023,390000,64
+Mexico,West,Diego Hernández,01-11-2024,135000,41
+Italy,South,Marco Rossi,05/30/2025,220000,15
+Canada,North,Sophie Leclerc,10/25/2023,485000,93
+Spain,West,Javier García,03-08-2024,310000,38
+India,South,Priya Nair,07-01-2025,165000,22
+Russia,East,Ivan Petrov,11/27/2023,250000,67
+China,North,Wei Zhang,02/14/2024,370000,50
+Germany,West,Anna Schmidt,06-06-2025,190000,31
+South Africa,South,Thabo Nkosi,09/28/2023,425000,88
+France,East,Julien Moreau,12-03-2024,130000,14
+United Kingdom,North,Oliver Hughes,04-01-2025,295000,59
